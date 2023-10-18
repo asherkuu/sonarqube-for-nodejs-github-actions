@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-app1.disable("x-powered-by");
+app.disable("x-powered-by");
 
 const port = 4000;
 
